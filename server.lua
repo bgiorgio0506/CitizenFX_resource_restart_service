@@ -4,7 +4,7 @@ local Admin ={"steam:[hex steam id here]","steam:[hex steam id here]","steam:[he
 local Mod = {"steam:[hex steam id here]","steam:[hex steam id here]", "steam:[hex steam id here]", "steam:[hex steam id here]","ip:",}
 local Sup = {"steam:1[hex steam id here]","ip:",}
 
---players counters
+--players counter
 playerCount = 0
 print('\n*****Version 1.0 of restart resource service*****\n')
 
